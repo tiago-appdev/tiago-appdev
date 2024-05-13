@@ -29,7 +29,7 @@ Estoy siempre en busca de mejorar y aprender nuevas tecnologías. Actualmente es
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
-- [LinkedIn](www.linkedin.com/in/tiago-ibarrola)
-- [Correo Electrónico](tiago.appdev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tiago-ibarrola)
+- [Correo Electrónico](https://tiago.appdev@gmail.com)
 
 ¡No dudes en explorar mis proyectos y dejar tus comentarios! ¡Gracias por visitar mi perfil!
