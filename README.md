@@ -1,16 +1,35 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Tiago
 
-<!--
-**tiago-appdev/tiago-appdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Desarrollador de Software en Formación
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado estudiante de Desarrollo de Software en busca de aprender y crecer en el mundo de la tecnología. Aquí encontrarás una variedad de proyectos en los que he trabajado, desde pequeñas aplicaciones hasta contribuciones a proyectos de código abierto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades y Tecnologías
+
+- **Lenguajes de Programación:** Java, Python, JavaScript, Kotlin
+- **Frameworks y Bibliotecas:** React.js, Node.js, Angular 17, NestJS
+- **Bases de Datos:** MySQL, MongoDB
+- **Herramientas de Control de Versiones:** Git, GitHub
+- **Metodologías:** Agile, Scrum
+
+## 🌱 Aprendiendo Constantemente
+
+Estoy siempre en busca de mejorar y aprender nuevas tecnologías. Actualmente estoy explorando:
+
+- Desarrollo de Aplicaciones Móviles con Kotlin
+- Desarrollo de aplicaciones web con Angular
+- Arquitectura de Software
+
+## 💼 Experiencia
+
+- **Proyectos Académicos:** Desarrollo de aplicaciones web y móviles, gestión de bases de datos, implementación de algoritmos.
+- **Contribuciones a la Comunidad:** Colaboraciones en proyectos de código abierto.
+
+## 📫 Contacto
+
+¡Me encantaría conectarme contigo! Puedes encontrarme en:
+
+- [LinkedIn](www.linkedin.com/in/tiago-ibarrola)
+- [Correo Electrónico](tiago.appdev@gmail.com)
+
+¡No dudes en explorar mis proyectos y dejar tus comentarios! ¡Gracias por visitar mi perfil!
